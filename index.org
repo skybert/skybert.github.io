@@ -1,0 +1,7 @@
+* Does it work with .org too?
+
+Hi world.
+
+[[http://ap.no][Link to Aftenposten]]
+
+
